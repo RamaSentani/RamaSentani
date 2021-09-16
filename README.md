@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RamaSentani
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front-end Web Development
+- 🌱 I’m currently learning Fullstack Web Development
 - 📫 How to reach me sentanirama@gmail.com
 
 <!---
